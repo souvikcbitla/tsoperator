@@ -23,20 +23,6 @@ module.exports = [
         "runs": true
     },
     {
-        "file": "plugins/com.weipl.cordova_checkout/www/WEIPL_checkout.js",
-        "id": "com.weipl.cordova_checkout.WEIPL_checkout",
-        "pluginId": "com.weipl.cordova_checkout",
-        "clobbers": [
-            "WLCheckout"
-        ]
-    },
-    {
-        "file": "plugins/com.weipl.cordova_checkout/src/browser/checkoutProxy.js",
-        "id": "com.weipl.cordova_checkout.CheckoutProxy",
-        "pluginId": "com.weipl.cordova_checkout",
-        "runs": true
-    },
-    {
         "file": "plugins/cordova-clipboard/www/clipboard.js",
         "id": "cordova-clipboard.Clipboard",
         "pluginId": "cordova-clipboard",
@@ -439,7 +425,6 @@ module.exports.metadata =
 {
     "com-sarriaroman-photoviewer": "1.2.4",
     "com.razorpay.cordova": "0.16.1",
-    "com.weipl.cordova_checkout": "1.0.0",
     "cordova-clipboard": "1.3.0",
     "cordova-plugin-add-swift-support": "2.0.2",
     "cordova-plugin-android-permissions": "1.0.2",
