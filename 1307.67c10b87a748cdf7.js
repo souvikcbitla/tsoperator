@@ -1061,11 +1061,14 @@ class LoginPage {
           });
           this.navCtrl.navigateRoot('tabs/home');
         } else if (result.code === 491) {
+          alert(491);
           this.activateNoteModal = true;
           this.activateToken = result.body.auth_token;
         } else if (result.code === 422) {
+          alert(422);
           this.accountDeRegisterAlert("", result.body.message);
         } else {
+          alert(40);
           this.util.showAlert('', result.body.message);
           this.showError(result.body.message);
         }
