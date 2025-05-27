@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1748290233844,
+  "timestamp": 1748322285684,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -79,6 +79,10 @@
         "/9882.76dfd92c847f580e.js",
         "/9992.06b24dd671862c17.js",
         "/common.22eaf272467b35e5.js",
+        "/cordova.3c8302fba18b7d3c.js",
+        "/cordova.js",
+        "/cordova_plugins.js",
+        "/favicon.ico",
         "/index.html",
         "/main.96fd532d12742fc9.js",
         "/manifest.webmanifest",
@@ -1116,8 +1120,12 @@
     "/chat-bg.635509a33fbe68bf.jpg": "7f27655c28cfa890f963654ea89f26f44a38f6f6",
     "/check_done.0b47c74f8f46c607.gif": "bfcb985784d504e9befc5a508dd093b8306c3f36",
     "/common.22eaf272467b35e5.js": "bf1f957cdb7e528b80d6c48ef55f195d9fe4e228",
+    "/cordova.3c8302fba18b7d3c.js": "cae6b6e8855cfe4422268556babef972168e32c5",
+    "/cordova.js": "cac7e8dfad5ad180430abd13873fea475dcad328",
+    "/cordova_plugins.js": "26276672666ab7951ae47d3bcbe51f9b574b76e3",
+    "/favicon.ico": "696dfbca3c3326f3a7832c34da7188bf98d59dbe",
     "/icons8-home.5c3af35990e7b937.svg": "08828a5223afec9acb9e79b6603dcaf5e561f1b9",
-    "/index.html": "a1d296e877aed39e7d63cde4ab0f59b7ab34a7ba",
+    "/index.html": "8d7b777d23f67675d999b46e0dc6ee71f536c4ce",
     "/main.96fd532d12742fc9.js": "0c0422496f1e4bef02746adf44847b1a852d4383",
     "/manifest.webmanifest": "9a088b7c4339228d1082e666ce105dc889bc180c",
     "/montserrat-v14-latin-regular.016fddc825bb37e6.woff2": "7b7c670ef2f0ba7fc0ce6437e523ccbdc847fde2",
